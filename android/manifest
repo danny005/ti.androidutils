@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+description: androidutils
+author: Danny Pham
+license: Specify your license
+copyright: Copyright (c) 2014 by 
+
+# these should not be edited
+name: androidutils
+moduleid: com.crossbits.androidutils
+guid: a59fbe41-db00-41e7-83e8-31744f59539f
+platform: android
+minsdk: 3.4.0.GA
